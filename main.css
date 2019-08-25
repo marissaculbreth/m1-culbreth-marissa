@@ -1,0 +1,45 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body {
+  background-color: darkgrey;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Livvic', sans-serif;
+  padding: 3%;
+}
+
+nav {
+  font-family: 'Livvic', sans-serif;
+  text-align: center;
+  padding-bottom: 2%;
+}
+
+li {
+  display: inline;
+  padding-left: 2%;
+}
+
+h2 {
+  font-family: 'Livvic', sans-serif;
+  text-decoration: underline;
+}
+
+p {
+  font-family: 'Livvic', sans-serif;
+}
+
+h3 {
+  font-family: 'Livvic', sans-serif;
+  font-style: italic;
+  font-size: 0.9rem;
+  color: darkgrey;
+  background-color: black;
+  padding: 2%;
+  text-align: center;
+}
